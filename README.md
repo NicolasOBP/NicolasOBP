@@ -3,9 +3,9 @@
 - 🌱 Estou apredendo React e React Native, começando a aprender TypeScrypt
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasOBP&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NicolasOBP)](https://git.io/streak-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=NicolasOBP&show_icons=true&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasOBP&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOBP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!---
 NicolasOBP/NicolasOBP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
