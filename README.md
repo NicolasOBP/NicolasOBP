@@ -1,3 +1,4 @@
+# 💫 Sobre mim:
 - 👋 Olá, eu sou @NicolasOBP, faço curso de Desenvolvimento de Sistemas na ETEC de Atibaia;
 - 👀 Ultimamente tenho feito meu TCC sobre Cadastro de CV e talentos;
 - 🌱 Estou apredendo React e React Native, começando a aprender TypeScrypt
