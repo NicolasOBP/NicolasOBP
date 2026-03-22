@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 💫 About me:
 - 👋 Hi, I’m @NicolasOBP, a Software Development student from ETEC.
 - 💻 I’m passionate about technology, especially mobile and front-end development.
 - 📱 I have experience with React, React Native and TypeScript, building mobile and web applications.
