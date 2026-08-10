@@ -1,10 +1,11 @@
 # 💫 About me:
-- 👋 Hi, I’m @NicolasOBP, a Software Development student from ETEC.
-- 💻 I’m passionate about technology, especially mobile and front-end development.
-- 📱 I have experience with React, React Native and TypeScript, building mobile and web applications.
-- 🚀 I developed projects such as a CV and Talent Registration System (my technical school final project) and personal mobile apps.
-- 🧠 I’m always learning new technologies and improving my skills in areas like APIs, state management, testing, and software quality.
-- 🌱 Currently improving my knowledge in React Native, software architecture, and modern development practices.
+- 👋 Hi, I’m @NicolasOBP (Nícolas Oliveira Baptista Pereira).
+- 🎓 I graduated with a technical degree in Systems Development from ETEC (2021 - 2023) and am currently pursuing my technologist degree in Systems Analysis and Development at FATEC Bragança Paulista (2024 - 2026, Current GPA: 9.25).
+- 💻 I am passionate about technology, with a strong focus on Front-End and Mobile Development.
+- 📱 I have hands-on experience building mobile and web applications using React, React Native, Expo, and TypeScript.
+- 🧠 I have a keen eye for Software Quality & Testing (QA). I love ensuring projects run bug-free and have experience writing detailed bug reports and performing manual/automated quality assurance reviews.
+- 🤝 I believe in collaboration and social impact. I actively participate in TechBloom, a university initiative promoting women in tech, where I plan events and teach technical courses (JavaScript, Excel, Computing basics).
+- 🌱 I am always refining my knowledge in Clean Architecture, state management, testing automation, and robust development practices.
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
