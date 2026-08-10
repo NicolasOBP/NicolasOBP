@@ -30,7 +30,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NicolasOBP&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOBP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!---
-NicolasOBP/NicolasOBP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Contato
+
+<p align="center"> 
+  <a href="mailto:nicolasobp15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nicolasobpereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</p>
